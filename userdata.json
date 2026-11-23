@@ -61,6 +61,14 @@
         "expirydate": "23-12-2026",
         "Allowoffline": false
     },
+
+  
+     {
+        "device_id": "71b85e0f1ab5e61b",
+        "key": "800003060",
+        "expirydate": "23-12-2026",
+        "Allowoffline": false
+    },
   
   
 ]
