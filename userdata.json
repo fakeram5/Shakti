@@ -96,5 +96,12 @@
         "Allowoffline": false
     },
   
+  {
+        "device_id": "4001a427562fd851",
+        "key": "800136495",
+        "expirydate": "24-12-2026",
+        "Allowoffline": false
+    },
+  
   
 ]
