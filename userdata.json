@@ -102,6 +102,12 @@
         "expirydate": "24-12-2026",
         "Allowoffline": false
     },
+  {
+        "device_id": "957d1017905e9303",
+        "key": "800093274",
+        "expirydate": "25-12-2026",
+        "Allowoffline": false
+    },
   
     {
         "device_id": "957d1017905e9303",
@@ -109,6 +115,11 @@
         "expirydate": "25-12-2026",
         "Allowoffline": false
     },
-  
+  {
+        "device_id": "10175c326b4500c3",
+        "key": "800003175",
+        "expirydate": "25-12-2026",
+        "Allowoffline": false
+    },
   
 ]
