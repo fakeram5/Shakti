@@ -133,5 +133,11 @@
         "expirydate": "27-12-2026",
         "Allowoffline": false
     },
+  {
+        "device_id": "caf16c5881e59500",
+        "key": "800053025",
+        "expirydate": "27-12-2026",
+        "Allowoffline": false
+    },
   
 ]
