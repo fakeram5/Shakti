@@ -140,7 +140,7 @@
         "Allowoffline": false
     },
   {
-        "device_id": "4046410bfacbdd2e",
+        "device_id": "d4dd4b3fd84277e8",
         "key": "800053211",
         "expirydate": "27-12-2026",
         "Allowoffline": false
@@ -148,6 +148,12 @@
   {
         "device_id": "9bbcd6fff89b179a",
         "key": "800037921",
+        "expirydate": "27-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "7c98e5271d0e823a",
+        "key": "800096665",
         "expirydate": "27-12-2026",
         "Allowoffline": false
     },
